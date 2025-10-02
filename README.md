@@ -70,13 +70,6 @@ dotnet run -- gen-sigma examples/output.ndjson examples/suspicious.yml
 
 ---
 
-## GIFs & demo
-- `assets/demo.gif` — timeline demo (drop your own GIF here)  
-- `assets/install.gif` — build & run GIF  
-- You can host GIFs in `/assets` and reference them in README for GitHub rendering.
-
----
-
 ## Safety & ethics (read this)
 - **Do NOT** run on production or systems you don't own/authorize.  
 - Run in isolated VMs with snapshots.  
